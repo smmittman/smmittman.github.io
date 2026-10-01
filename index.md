@@ -10,17 +10,20 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Portfolio
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Self-motivated and enthusiastic professional with experience in the retail, hospitality, veterinary healthcare, and outdoor 
+recreation industries.  Skilled in building cross-functional teams, demonstrating exceptional communications skills, and making 
+critical decisions during challenging situations.  Adaptable and transformational leader and manager with an ability to work 
+independently, creating effective work environments and developing opportunities that further establish organizational goals.
 
-## Header 2
+## Professional Background
 
-> This is a blockquote following a header.
+_"Opportunities don't happen. You create them." — Chris Grosser_
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
-### Header 3
+### Educational Background
 
 ```js
 // Javascript code with syntax highlighting.
