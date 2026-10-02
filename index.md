@@ -1,4 +1,4 @@
-# Portfolio
+# <ins>Portfolio<ins>
 
 Self-motivated and enthusiastic professional with experience in the retail, hospitality, veterinary healthcare, and outdoor 
 recreation industries.  Skilled in building cross-functional teams, demonstrating exceptional communications skills, and making 
@@ -7,7 +7,7 @@ independently, creating effective work environments and developing opportunities
 
 _"Opportunities don't happen. You create them." — Chris Grosser_
 
-## Professional Background
+## <ins>Professional Background<ins>
 
 **Veterinary Receptionist/Veterinary Assistant**
 
@@ -21,6 +21,7 @@ _"Opportunities don't happen. You create them." — Chris Grosser_
 
   - Coordinate supplies and resources for appointments, treatments, and surgical procedures while identifying opportunities to improve operational efficiency.
 
+
 **Veterinary Receptionist**
 
 **Cave Spring Veterinary Clinic | 02/2016 – 05/2018**
@@ -28,6 +29,7 @@ _"Opportunities don't happen. You create them." — Chris Grosser_
   - Managed scheduling, records, billing documentation, and daily office operations while coordinating resources across multiple providers.
 
   - Triaged incoming requests and coordinated urgent clinic arrivals, supporting efficient allocation of staff and operational resources.
+
 
 **Guest Services Manager**
 
@@ -41,7 +43,8 @@ _"Opportunities don't happen. You create them." — Chris Grosser_
 
   - Coordinated staffing, catering, sales initiatives, and daily operations while maintaining compliance with safety, cleanliness, and health standards.
 
-### Educational Background
+
+### <ins>Educational Background<ins>
 
 **California State University San Marcos, 2023-2025**
 
