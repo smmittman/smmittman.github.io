@@ -46,6 +46,10 @@ _"Opportunities don't happen. You create them." — Chris Grosser_
 
 ### <ins>Educational Background<ins>
 
+**California State University San Marcos, 2026-2027 (in progress)**
+  
+  * Masters of Science Supply Chain Analytics
+
 **California State University San Marcos, 2023-2025**
 
   * Accelerated Bachelor of Science in Kinesiology: Movement Science
