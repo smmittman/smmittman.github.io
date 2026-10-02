@@ -1,2 +1,2 @@
-# Stefanie Mittman: Professional Portfolio
+# Stefanie M Mittman: Professional Portfolio
 _A snapshot of my life_
