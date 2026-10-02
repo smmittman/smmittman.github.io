@@ -11,7 +11,7 @@ _"Opportunities don't happen. You create them." — Chris Grosser_
 
 **Veterinary Receptionist/Veterinary Assistant**
 
-**Aloha Animal Hospital | 12/2018 – Present**
+**Aloha Animal Hospital, 12/2018 – Present**
 
   - Monitor inventory levels of medications, prescription diets, and hospital supplies to support product availability and day-to-day operations.
 
