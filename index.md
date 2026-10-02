@@ -1,15 +1,3 @@
----
-layout: default
----
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
 # Portfolio
 
 Self-motivated and enthusiastic professional with experience in the retail, hospitality, veterinary healthcare, and outdoor 
@@ -17,110 +5,65 @@ recreation industries.  Skilled in building cross-functional teams, demonstratin
 critical decisions during challenging situations.  Adaptable and transformational leader and manager with an ability to work 
 independently, creating effective work environments and developing opportunities that further establish organizational goals.
 
+_"Opportunities don't happen. You create them." — Chris Grosser_
+
 ## Professional Background
 
-_"Opportunities don't happen. You create them." — Chris Grosser_
->
-> When something is important enough, you do it even if the odds are not in your favor.
+**Veterinary Receptionist/Veterinary Assistant**
+
+**Aloha Animal Hospital | 12/2018 – Present**
+
+  - Monitor inventory levels of medications, prescription diets, and hospital supplies to support product availability and day-to-day operations.
+
+  - Manage daily operational workflows, including scheduling, resource coordination, client communications, and intake/discharge processes.
+
+  - Researched and implemented a more cost-effective communication platform, streamlining workflows and improving access to records, appointment requests, and prescription refills.
+
+  - Coordinate supplies and resources for appointments, treatments, and surgical procedures while identifying opportunities to improve operational efficiency.
+
+**Veterinary Receptionist**
+
+**Cave Spring Veterinary Clinic | 02/2016 – 05/2018**
+
+  - Managed scheduling, records, billing documentation, and daily office operations while coordinating resources across multiple providers.
+
+  - Triaged incoming requests and coordinated urgent clinic arrivals, supporting efficient allocation of staff and operational resources.
+
+**Guest Services Manager**
+
+**Ruby Tuesday’s, Inc. | 07/2003 – 10/2015**
+
+  - Managed inventory, product ordering, and supply levels while monitoring labor and supply costs to support efficient restaurant operations.
+
+  - Budgeted labor and supply expenditures and monitored financial transactions, balancing operational requirements with cost considerations.
+
+  - Led and trained cross-functional service and kitchen teams, implementing accountability and training processes that improved team productivity and operational consistency.
+
+  - Coordinated staffing, catering, sales initiatives, and daily operations while maintaining compliance with safety, cleanliness, and health standards.
 
 ### Educational Background
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+**California State University San Marcos, 2023-2025**
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+  * Accelerated Bachelor of Science in Kinesiology: Movement Science
 
-#### Header 4
+    * CSUSM GPA: 4.0, Cumulative GPA: 3.789
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+    * Dean’s List; Magna Cum Laude
+ 
+**MiraCosta College, 2020-2023**
 
-##### Header 5
+  * Associates Degree in Nutrition
+    * GPA: 3.78
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+    * Dean’s List Honors; Phi Theta Kappa
 
-###### Header 6
+**Horry Georgetown Technical College, 2006-2008**
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+  * Completed 27 credit hours towards a Bachelors Degree in Biological Sciences
+  
+  * Dean’s List & President’s List 
 
 
-### Definition lists can be used with HTML syntax.
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+[Visit my LinkedIn](https://www.linkedin.com/in/stefanie-mittman-4a006b3b5/?isSelfProfile=true).
