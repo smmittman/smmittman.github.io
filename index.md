@@ -24,7 +24,7 @@ _"Opportunities don't happen. You create them." — Chris Grosser_
 
 **Veterinary Receptionist**
 
-**Cave Spring Veterinary Clinic | 02/2016 – 05/2018**
+**Cave Spring Veterinary Clinic, 02/2016 – 05/2018**
 
   - Managed scheduling, records, billing documentation, and daily office operations while coordinating resources across multiple providers.
 
@@ -33,7 +33,7 @@ _"Opportunities don't happen. You create them." — Chris Grosser_
 
 **Guest Services Manager**
 
-**Ruby Tuesday’s, Inc. | 07/2003 – 10/2015**
+**Ruby Tuesday’s, Inc., 07/2003 – 10/2015**
 
   - Managed inventory, product ordering, and supply levels while monitoring labor and supply costs to support efficient restaurant operations.
 
