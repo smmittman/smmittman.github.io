@@ -76,4 +76,4 @@ _"Opportunities don't happen. You create them." — Chris Grosser_
 [Visit my LinkedIn](https://www.linkedin.com/in/stefanie-mittman-4a006b3b5/?isSelfProfile=true).
 
 ## Projects
-Check out my step-by-step guide to creating this profile: [Setting Up My E-Portfolio](setting-up-my-e-portfolio)
+Check out my step-by-step guide to creating this profile: [Setting Up My E-Portfolio](portfolio_guide/index.md)
