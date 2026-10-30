@@ -1,7 +1,6 @@
 # Portfolio Guide
 ## Welcome to my guide!
 
-# Task 1:
 ## Introduction
 I created my e-portfolio to showcase my academic projects, professional background, and core skills in business and management. This guide outlines the step-by-step process I followed to build, structure, and customize my personal website using GitHub Pages.
 
@@ -16,6 +15,7 @@ I created my e-portfolio to showcase my academic projects, professional backgrou
 * Un
 * I downloaded the entire minimal project by clicking **Code** then **Download ZIP**
 * Then I had to unzip the folder and extract the files to add them to my cloned Repository and committed the changes, which saved my progress.
+
 ## Replacing the logo.png Stock Photo With My Headshot:
 * Among the files from the Minimal Theme is a folder titled 'assets'. Within this folder is a subfolder named 'img'. This folder contains the stock photo ('logo.png') which comes with the Minimal Theme.
 * To change this photo out, I selected an appropriate photo of myself, retitled it 'logo.png' and swapped out the stock photo.
