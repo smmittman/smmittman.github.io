@@ -44,7 +44,7 @@ _"Opportunities don't happen. You create them." — Chris Grosser_
   - Coordinated staffing, catering, sales initiatives, and daily operations while maintaining compliance with safety, cleanliness, and health standards.
 
 
-### <ins>Educational Background<ins>
+## <ins>Educational Background<ins>
 
 **California State University San Marcos, 2026-2027 (in progress)**
   
@@ -74,3 +74,6 @@ _"Opportunities don't happen. You create them." — Chris Grosser_
 
 
 [Visit my LinkedIn](https://www.linkedin.com/in/stefanie-mittman-4a006b3b5/?isSelfProfile=true).
+
+## Projects
+Check out my step-by-step guide to creating this profile: [Setting Up My E-Portfolio](setting-up-my-e-portfolio)
